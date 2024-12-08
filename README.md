@@ -219,7 +219,7 @@ A - λB ?
 
 
 $$
-2 \times B\begin{pmatrix}
+λ \times B\begin{pmatrix}
     0 & 5 \\
     -1 & 2 \\
     3 & 4
