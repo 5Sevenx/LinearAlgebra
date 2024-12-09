@@ -173,7 +173,7 @@ Another very important step you need to have knowladge to is to doing multipy ma
 -2 А
 
 $$
--2 \times \begin{pmatrix}
+λ \times \begin{pmatrix}
     1 & 0 \\
     -3 & 5 \\
     0 & 1
@@ -231,7 +231,7 @@ $$
 \end{pmatrix}
 $$
 
-jus multiply each element of the B matrix by 2.
+jus multiply each element of the B matrix by λ(2).
 
 
 
