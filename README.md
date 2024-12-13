@@ -238,7 +238,7 @@ A \begin{pmatrix}
     6 & 8
 \end{pmatrix}
 \quad = \quad
- = \begin{pmatrix}
+ \begin{pmatrix}
     2 & 11 \\
     2 & -1 \\
     -1 & -7
