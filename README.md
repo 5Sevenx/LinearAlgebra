@@ -55,8 +55,8 @@ B\begin{pmatrix}
 \end{pmatrix}
 \quad = \quad
 C \begin{pmatrix}
-  5 & X  \\
-  X & X
+  5 & 6  \\
+  11 & 12
 \end{pmatrix}
 $$
 
@@ -65,5 +65,17 @@ How to find all:
 `Cᵢⱼ = multiply first matrix rowsᵢ by second matrix columsⱼ `
 
 C₁₁ = A₁₁ x  B₁₁ + A₁₂ x B₂₁ = 1 x 1 + 2 x 2 = 5
+
+
 С₁₂ = A₂₁ x  B₁₂ + A₂₂ x B₂₂ = 1 x 0 + 2 x 3 = 6
 
+C₂₁ = A₂₁ x B₁₂ + A₂₂ x B₂₂ = 3 x 1 + 4 x 2  = 11
+
+C₂₂ = A₂₁ x B₁₂ + A₂₂ x B₂₂ = 3 x 0 + 4 x 3 = 12 
+
+$$
+C = \begin{pmatrix}
+  5 & 6  \\
+  11 & 12
+\end{pmatrix}
+$$
