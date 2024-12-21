@@ -245,7 +245,9 @@ A \begin{pmatrix}
 \end{pmatrix}
 $$
 
+
 Now, subtract the A matrix - λB.
+
   
 <p align="right">
   <a href="https://github.com/21Sec0nds/LinearAlgebra/tree/T2">Next page</a>
