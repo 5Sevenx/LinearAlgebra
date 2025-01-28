@@ -238,10 +238,10 @@ $$
 
 If we try to multiply B₂×1 and A₃×2, we would not be able to do it, because the number of columns in matrix *A* does not match the number of rows in matrix *B*.
 
-<p align="right">
-  <a href="https://github.com/21Sec0nds/LinearAlgebra/tree/T3">Next page</a>
-</p>
 
-<p align="left">
-  <a href="https://github.com/21Sec0nds/LinearAlgebra/tree/T2">Previous page</a>
-</p>
+| [Previous page](https://github.com/21Sec0nds/LinearAlgebra/tree/T2) | [Next page](https://github.com/21Sec0nds/LinearAlgebra/tree/T3) |
+|-----------------------------------|--------------------------------|
+
+
+
+
